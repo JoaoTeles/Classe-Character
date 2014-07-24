@@ -1,0 +1,16 @@
+package learningChar;
+
+public class toLower {
+	
+	static Character a = 'C';
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		System.out.println(Character.toLowerCase('H'));
+		System.out.println(Character.toLowerCase('h'));
+		
+		System.out.println(Character.toLowerCase(a));
+	}
+
+}
