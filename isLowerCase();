@@ -1,0 +1,11 @@
+public class isLowerCase {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println(Character.isLowerCase('a'));
+		System.out.println(Character.isLowerCase('A'));
+		System.out.println(Character.isLowerCase('\n'));
+		System.out.println(Character.isLowerCase('\t'));
+	}
+
+}
