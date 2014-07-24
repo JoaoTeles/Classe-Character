@@ -1,0 +1,13 @@
+
+public class isSpace {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+	System.out.println(Character.isSpace('a'));
+	System.out.println(Character.isSpace(' '));
+	System.out.println(Character.isSpace('\n'));
+	System.out.println(Character.isSpace('\t'));
+	
+	}
+
+}
