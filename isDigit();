@@ -1,5 +1,5 @@
 
-// O método " isDigit(); " serve para verificar se os Caracteres são Números decimais, retornado como True ou False.
+// O método " isDigit(); " serve para verificar se os Caracteres são Números decimais, retornado o seu Valor como True ou False.
 
 public class isDigit {
 
