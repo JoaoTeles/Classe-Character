@@ -1,4 +1,7 @@
 
+// O método " isSpace(); " serve para verificar se o Caractere é um espaço em branco, 
+retornando o valor como True ou False.
+
 public class isSpace {
 
 	public static void main(String[] args) {
