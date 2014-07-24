@@ -1,3 +1,6 @@
+
+// O método " isDigit(); " serve para verificar se os Caracteres são Números decimais, retornado como True ou False.
+
 public class isDigit {
 
 	public static void main(String[] args) {
