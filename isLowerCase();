@@ -1,3 +1,7 @@
+
+// O método " isLowerCase(); " serve apenas, para verificar se os Caracteres são Alfabéticos Minúsculos, 
+retornado o seu Valor como True ou False.
+
 public class isLowerCase {
 
 	public static void main(String[] args) {
