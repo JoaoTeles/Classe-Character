@@ -1,0 +1,23 @@
+package learningChar;
+
+public class equal {
+	
+	static Character a = 'C';
+	static Character b = 'G';
+	static Character c = 'G';
+	static Character d = '4';
+	static Character e = '5';
+	static Character f = '4';
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		System.out.println(a.equals(b));
+		System.out.println(b.equals(c));
+		System.out.println(d.equals(e));
+		System.out.println(d.equals(f));
+		System.out.println(Character.toString(a));
+
+	}
+
+}
