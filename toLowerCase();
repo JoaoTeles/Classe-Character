@@ -1,3 +1,6 @@
+
+// O método " toLowerCase(); " serve para retornar o valor da string convertida em Minúsculas.
+
 package learningChar;
 
 public class toLower {
