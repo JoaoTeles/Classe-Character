@@ -1,4 +1,7 @@
 
+// O método " isLetter(); " serve para verificar se os Caracteres são Alfabéticos Maiúsculos e Minúsculos, 
+retornado o seu Valor como True ou False.
+
 public class isLetter {
 
 	public static void main(String[] args) {
