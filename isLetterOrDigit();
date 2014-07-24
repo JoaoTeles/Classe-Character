@@ -1,0 +1,22 @@
+public class isLetterOrDigit {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		char a1, a2;
+		
+		a1= 'A';
+		a2= '1';
+		
+		boolean b1, b2;
+		
+		b1= Character.isLetterOrDigit(a1);
+		b2= Character.isLetterOrDigit(a2);
+		
+		String str1= a1 + "'é uma letra / é um Digito" +b1;
+		String str2= a2 + "é uma letra / é um Digito" + b2;
+		
+		System.out.println(str1);
+		System.out.println(str2);
+	}
+
+}
