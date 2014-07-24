@@ -1,0 +1,17 @@
+package learningChar;
+
+public class toUpper {
+	
+	static Character a = 'c';
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		System.out.println(Character.toUpperCase('h'));
+		System.out.println(Character.toUpperCase('H'));
+		
+		System.out.println(Character.toUpperCase(a));
+
+	}
+
+}
