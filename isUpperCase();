@@ -1,4 +1,7 @@
 
+// O método " isUpperCase(); " serve apenas, para verificar se os Caracteres são Alfabéticos Maiúsculos, 
+retornado o seu Valor como True ou False.
+
 public class isUpperCase {
 
 	public static void main(String[] args) {
